@@ -1,3 +1,11 @@
+"""
+stores vectores in session state, or locally.
+loading from local does not yet work.
+load funciton must recieve the uploaded file from fileuploader.
+"""
+
+
+
 import time
 from datetime import datetime
 import openai
